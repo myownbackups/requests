@@ -8,9 +8,9 @@ require (
 	github.com/gospider007/bs4 v0.0.0-20250815030800-a352d3ad57ee
 	github.com/gospider007/gson v0.0.0-20250819094627-31f516e714bd
 	github.com/gospider007/gtls v0.0.0-20250818100212-f466fa4cc860
-	github.com/gospider007/http1 v0.0.0-20250821083648-92cd24f3f307
-	github.com/gospider007/http2 v0.0.0-20250820090250-584a27dfb0dc
-	github.com/gospider007/http3 v0.0.0-20250820090306-a29c4f3f6000
+	github.com/gospider007/http1 v0.0.0-20250825091738-575a27693793
+	github.com/gospider007/http2 v0.0.0-20250825091745-2f4f42d3e500
+	github.com/gospider007/http3 v0.0.0-20250825091807-e3f4b626fa87
 	github.com/gospider007/ja3 v0.0.0-20250820090351-07b1daefd162
 	github.com/gospider007/re v0.0.0-20250815031101-a57caeff73bf
 	github.com/gospider007/tools v0.0.0-20250820090327-734cf60271ec
